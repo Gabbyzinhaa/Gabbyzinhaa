@@ -1,7 +1,7 @@
-## Hi there 👋
+## Oiee, me chamo Gabrielly💖 👋
 
-**Gabbyzinhaa/Gabbyzinhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-estudante do alura✨ 
+- Sou estudante do [Alura](https://www.alura.com)
+- sou iniciante
+- trabalho com p5js e scratch
+- tenho 16 anos
+  
